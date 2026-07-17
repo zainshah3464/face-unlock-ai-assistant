@@ -69,13 +69,9 @@ python face_unlock_assistant.py
 |**what's the weather** |	Speaks current weather|
 |---------------|--------------------|
 |**take screenshot** |	Saves a timestamped screenshot|
-|---------------|--------------------|
 |**lock screen** | Locks the computer|
-|---------------|--------------------|
 |**open google** |	Launches Google|
-|---------------|--------------------|
 |**tell me a joke** | Tells a random joke|
-|---------------|--------------------|
 |**exit / bye**	| Stops the assistant|
 |---------------|--------------------|
 
